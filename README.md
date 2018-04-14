@@ -6,13 +6,10 @@
 	
 	**ADD**
 
-	Add item to inventory 
-
-	ADD 'item_id' 'item_name' 'item_price' 'item_quantity'
-
-	example: ADD 1 Shirt 4.99 10
-
-	This will add 10 Shirts priced 4.99 with ID 1
+	Add item to inventory <br/>
+	ADD 'item_id' 'item_name' 'item_price' 'item_quantity' <br/>
+	example: ADD 1 Shirt 4.99 10 <br/>
+	This will add 10 Shirts priced 4.99 with ID 1 <br/>
 	
 	**INV**
 
@@ -50,6 +47,6 @@
 
 	
 	**END**
-	
+
 	End second stage and exit
 	
