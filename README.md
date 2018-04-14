@@ -5,48 +5,46 @@
 - First stage (Adding items to inventory)
 	
 	**ADD**
+<<<<<<< HEAD
 
 	Add item to inventory <br/>
 	ADD 'item_id' 'item_name' 'item_price' 'item_quantity' <br/>
 	example: ADD 1 Shirt 4.99 10 <br/>
 	This will add 10 Shirts priced 4.99 with ID 1 <br/>
+=======
+	Add item to inventory 
+	ADD 'item_id' 'item_name' 'item_price' 'item_quantity'
+	example: ADD 1 Shirt 4.99 10
+	This will add 10 Shirts priced 4.99 with ID 1
+>>>>>>> a221781b1917e3a8839654c38f91ac2b2befb43e
 	
 	**INV**
-
 	Display current items in inventory
 	
 	**END**
-
 	End first stage
 	
 - Second stage (Adding items to cart)
 	
 	**ADD**
-
 	Add item to cart 
-
 	ADD 'item_id' 'item_quantity'
-
 	example: ADD 1 4
-
 	This will add 4 items with ID 1
 	
 	**CHECKOUT**
-
 	Checkout your items from cart
 
-
 	**CART**
-
 	Display current items in cart
 
-
 	**INV**
-
 	Display current items in inventory
 
-	
 	**END**
+<<<<<<< HEAD
 
+=======
+>>>>>>> a221781b1917e3a8839654c38f91ac2b2befb43e
 	End second stage and exit
 	
