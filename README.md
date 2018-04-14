@@ -3,7 +3,7 @@
 1. Run index.php with php (php index.php)
 2. Shop commands
 - First stage (Adding items to inventory)
-	```
+	
 	**ADD**
 	Add item to inventory 
 	ADD 'item_id' 'item_name' 'item_price' 'item_quantity'
@@ -15,9 +15,9 @@
 	
 	**END**
 	End first stage
-	```
+	
 - Second stage (Adding items to cart)
-	```
+	
 	**ADD**
 	Add item to cart 
 	ADD 'item_id' 'item_quantity'
@@ -35,4 +35,4 @@
 	
 	**END**
 	End second stage and exit
-	```
+	
